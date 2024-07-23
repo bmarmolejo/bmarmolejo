@@ -1,19 +1,24 @@
-<h1 align="center">Hi! I'm Brenda 👋🏽👩🏻‍💻</h1>
 
-<p align="left">A full-stack developer who graduated from the <a href="https://brainstation.io/" target="_blank" style="text-decoration: underline; text-decoration-color: white;">BrainStation</a> Software Engineering Bootcamp and is currently living in Toronto, Canada 🇨🇦</p>
+<h1 align="center">Hi! I'm Brenda Marmolejo 👋🏽👩🏻‍💻</h1>
 
-<div align="center">
-  <a href="https://twitter.com/brenmarmo" style="text-decoration: underline; text-decoration-color: white;">
+<p align="left">A full-stack developer who graduated from the <a href="https://brainstation.io/">BrainStation</a> Software Engineering Bootcamp and is currently living in Toronto, Canada 🇨🇦</p>
+
+
+
+<div align="center" 
+  <a href="https://twitter.com/brenmarmo">
     <img src="https://img.shields.io/twitter/follow/brenmarmo?style=social" alt="Twitter: brenmarmo" />
   </a>
-  <a href="https://www.linkedin.com/in/bmarmolejo/" style="text-decoration: underline; text-decoration-color: white;">
+  <a href="https://www.linkedin.com/in/bmarmolejo/">
     <img src="https://img.shields.io/badge/-bmarmolejo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bmarmolejo/" alt="Linkedin: bmarmolejo" />
   </a>
-  <a href="https://github.com/bmarmolejo" target="blank" style="text-decoration: underline; text-decoration-color: white;">
+  <a href="https://github.com/bmarmolejo" target="blank" style="div.lp-pom-root .lp-pom-text a {
+        text-decoration: none;}">
     <img src="https://img.shields.io/github/followers/bmarmolejo?label=follow&style=social" alt="GitHub Brenda" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=bmarmolejo&label=Profile%20views&color=0e75b6&style=flat" alt="bmarmolejo" />
 </div>
+
 
 - 👩🏻 Pronouns: She/Her
 - 👩🏻‍💻 eCommerce Strategist at [Maram Digital Hub](http://maramhub.com/)
@@ -39,12 +44,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer" style="text-decoration: underline; text-decoration-color: white;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="text-decoration: underline; text-decoration-color: white;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: underline; text-decoration-color: white;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
