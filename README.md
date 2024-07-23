@@ -20,7 +20,7 @@
    - [EnoBot](https://github.com/bmarmolejo/enobot), a web application designed to predict the flavor profile of wines
    - [Olympic Games Calendar](https://github.com/bmarmolejo/olympics), a calendar to display games and activities for the Paris 2024 Olympic Games
 - 🌱 I’m currently learning **Tailwind CSS, TypeScript, Python**
-- 👯 Collaborating: Open to joining forces to develop innovative and exciting projects. Interested in circular economy, sustainability, eCommerce, and food and wine app developments.
+- 👯 Collaborating: Open to joining forces to develop innovative and exciting projects. Interested in circular economy, sustainability, eCommerce, sports and food and wine app developments.
 - ⚡ Fun fact 🍳 **I love cooking** and 🍷 **learning about wine**.
 
 <h3 align="left">Connect with me:</h3>
