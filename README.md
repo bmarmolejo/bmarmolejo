@@ -16,7 +16,7 @@
 - 👩🏻 Pronouns: She/Her
 - 👩🏻‍💻 eCommerce Strategist at [Maram Digital Hub](http://maramhub.com/)
 - 🔭 I’m currently working on:
-   - [My Portfolio](https://github.com/bmarmolejo/bmarmolejo-portfolio)
+   - [My Portfolio](https://github.com/bmarmolejo/portfolio)
    - [EnoBot](https://github.com/bmarmolejo/enobot), a web application designed to predict the flavor profile of wines
    - [Olympic Games Calendar](https://github.com/bmarmolejo/olympics), a calendar to display games and activities for the Paris 2024 Olympic Games
 - 🌱 I’m currently learning **Tailwind CSS, TypeScript, Python**
