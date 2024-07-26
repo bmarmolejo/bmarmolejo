@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Brenda Marmolejo 👋🏽👩🏻‍💻</h1>
 
-<p align="left">A full-stack developer who graduated from the <a href="https://brainstation.io/">BrainStation</a> Software Engineering Bootcamp and is currently living in Toronto, Canada 🇨🇦</p>
+<p align="left">A full-stack developer who graduated from the <a href="https://brainstation.io/">BrainStation</a> Software Engineering Program and is currently living in Toronto, Canada 🇨🇦</p>
 
 
 
