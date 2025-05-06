@@ -18,7 +18,7 @@
 - 👩🏻‍💻 eCommerce Strategist at [Maram Digital Hub](http://maramhub.com/)
 - 🔭 I’m currently working on:
    - [EnoBot](https://github.com/bmarmolejo/enobot), a web application designed to predict the flavor profile of wines
-   - [Mazatlan Vacation Rental](https://github.com/bmarmolejo/mazatlan), a website for a vacation rental property in Mazatlan, Mexico.
+   - [Enogeeks](https://www.enogeek.scom), a website for wine learning & travel.
 - 🌱 I’m currently learning **Tailwind CSS, TypeScript, Python**
 - 👯 Collaborating: Open to joining forces to develop innovative and exciting projects. Interested in circular economy, sustainability, eCommerce, sports and food and wine app developments.
 - ⚡ Fun fact 🍳 **I love cooking** and 🍷 **learning about wine**.
