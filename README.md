@@ -6,6 +6,13 @@ I'm a chemical engineer turned technologist and entrepreneur, based in Toronto, 
 
 Explore my work at **[brendamarmolejo.com](https://brendamarmolejo.com/)**.
 
+<p align="center">
+  <a href="https://x.com/brenmarmo"><img src="https://img.shields.io/twitter/follow/brenmarmo?style=social&logo=x&label=Follow%20%40brenmarmo" alt="Follow @brenmarmo on X" /></a>
+  <a href="https://www.linkedin.com/in/bmarmolejo/"><img src="https://img.shields.io/badge/LinkedIn-bmarmolejo-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn: bmarmolejo" /></a>
+  <a href="https://github.com/bmarmolejo"><img src="https://img.shields.io/github/followers/bmarmolejo?label=Follow&style=social" alt="Follow on GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=bmarmolejo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 ### ✨ Featured projects
 
 - **[SocialAI by Maram](https://social-ai.maramhub.com/)**: An AI-powered platform for social media strategy and content planning.
