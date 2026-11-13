@@ -22,7 +22,7 @@ I'm a curious foodie who loves cooking, discovering wines, and exploring the int
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/brenmarmo" target="blank" style="text-decoration: underline; text-decoration-color: white;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brenmarmo" height="30" width="40" /></a>
+  <a href="https://x.com/brenmarmo" target="blank" style="text-decoration: underline; text-decoration-color: white;"><img align="center" src="https://cdn.simpleicons.org/x/000000" alt="X: brenmarmo" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/bmarmolejo" target="blank" style="text-decoration: underline; text-decoration-color: white;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bmarmolejo" height="30" width="40" /></a>
   <a href="https://instagram.com/brenmarmo" target="blank" style="text-decoration: underline; text-decoration-color: white;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brenmarmo" height="30" width="40" /></a>
 </p>
