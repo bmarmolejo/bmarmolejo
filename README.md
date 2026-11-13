@@ -1,27 +1,24 @@
-<h1 align="center">Hi! I'm Brenda Marmolejo 👋🏽👩🏻‍💻</h1>
+<h1 align="center">Hi, I'm Brenda 👋🏽</h1>
+<p align="center"><strong>Engineer · Technologist · Entrepreneur</strong></p>
+<p align="center"><strong>Building at the intersection of AI, software &amp; business.</strong></p>
 
-<p align="left"> A full-stack developer currently living in Toronto, Canada 🇨🇦. Please visit my <a href="https://brendamarmolejo.com">personal website and portfolio</a> to learn more about me!
-</p>
+I'm a chemical engineer turned technologist and entrepreneur, based in Toronto, Canada. I build AI-powered tools, digital products, and automation solutions that solve real business problems.
 
+Explore my work at **[brendamarmolejo.com](https://brendamarmolejo.com/)**.
 
+### ✨ Featured projects
 
-<div align="center" 
-  <a href="https://twitter.com/brenmarmo"><img src="https://img.shields.io/twitter/follow/brenmarmo?style=social" alt="Twitter: brenmarmo" /></a>
-  <a href="https://www.linkedin.com/in/bmarmolejo/"><img src="https://img.shields.io/badge/-bmarmolejo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bmarmolejo/" alt="Linkedin: bmarmolejo" /></a>
-  <a href="https://github.com/bmarmolejo" target="blank" style="div.lp-pom-root .lp-pom-text a {
-        text-decoration: none;}"><img src="https://img.shields.io/github/followers/bmarmolejo?label=follow&style=social" alt="GitHub Brenda" /></a>
-  <img src="https://komarev.com/ghpvc/?username=bmarmolejo&label=Profile%20views&color=0e75b6&style=flat" alt="bmarmolejo" />
-</div>
+- **[SocialAI by Maram](https://social-ai.maramhub.com/)**: An AI-powered platform for social media strategy and content planning.
+- **[Enobot](https://enobot.netlify.app/)**: A generative AI app that predicts wine tasting profiles based on grapes, styles, and regions.
+- **[AI Agents & Automation](https://brendamarmolejo.com/work/)**: Lead generation, research, and intelligent business workflows.
 
+### 🤝 Open to collaborating
 
-- 👩🏻 Pronouns: She/Her
-- 👩🏻‍💻 eCommerce Strategist at [Maram Digital Hub](http://maramhub.com/)
-- 🔭 I’m currently working on:
-   - [EnoBot](https://github.com/bmarmolejo/enobot), a web application designed to predict the flavor profile of wines
-   - [Enogeeks](https://www.enogeek.scom), a website for wine learning & travel.
-- 🌱 I’m currently learning **Tailwind CSS, TypeScript, Python**
-- 👯 Collaborating: Open to joining forces to develop innovative and exciting projects. Interested in circular economy, sustainability, eCommerce, sports and food and wine app developments.
-- ⚡ Fun fact 🍳 **I love cooking** and 🍷 **learning about wine**.
+I'm always interested in collaborating on projects that combine technology, creativity, and real-world impact, especially in AI, sustainability, circular economy, eCommerce, sports, and food & wine.
+
+### 🍷 Beyond the code
+
+I'm a curious foodie who loves cooking, discovering wines, and exploring the intersection of technology, culture, and everyday life.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -51,15 +48,3 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="text-decoration: underline; text-decoration-color: white;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="text-decoration: underline; text-decoration-color: white;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> 
 </p>
-
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bmarmolejo&show_icons=true&locale=en&layout=compact" alt="bmarmolejo" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=bmarmolejo&show_icons=true&locale=en" alt="bmarmolejo" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bmarmolejo&" alt="bmarmolejo" />
-  </p>
-</div>
